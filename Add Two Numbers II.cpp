@@ -62,4 +62,4 @@ int sum = 0;
         
         return list.val == 0 ? list.next : list;
 
-// The second method is just the a upgrade version for the edge case that if our addition  in 10 and no previous element is present the we will not end up just getting 0 but 1 , 0
+// //The second method is just the a upgrade version for the edge case that if our addition  in 10 and no previous element is present the we will not end up just getting 0 but 1 , 0
