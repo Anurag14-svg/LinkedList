@@ -45,7 +45,7 @@ public:
     }
 };
 
-// or another
+// or another  modified method could be 
 
 
 int sum = 0;
